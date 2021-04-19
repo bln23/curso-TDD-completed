@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ddfb6500-2e99-4f75-b9f2-1d47fcb7a591" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../coffee_machine/lib/coffee_machine.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../coffee_machine/lib/coffee_machine.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../coffee_machine/test/coffee_machine_spec.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../coffee_machine/test/coffee_machine_spec.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/password_validator.rb" beforeDir="false" afterPath="$PROJECT_DIR$/lib/password_validator.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/password_validator_spec.rb" beforeDir="false" afterPath="$PROJECT_DIR$/test/password_validator_spec.rb" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1fMnWBbnxuf0d0EqKPsqdxvJUOO" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
+  </component>
+  <component name="RunManager">
+    <configuration name="PasswordValidator" type="RSpecRunConfigurationType" factoryName="RSpec" temporary="true" nameIsGenerated="true">
+      <module name="password_validator" />
+      <predefined_log_file enabled="true" id="RUBY_RSPEC" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$/test" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs>
+        <env name="JRUBY_OPTS" value="-X+O" />
+      </envs>
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="true" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="$MODULE_DIR$/test/password_validator_spec.rb" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_RUNNER_PATH" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="**/*_spec.rb" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_EXAMPLE_NAME" VALUE="PasswordValidator" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_ARGS" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="USE_CUSTOM_SPEC_RUNNER" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="ZEUS" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPRING" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="RSpec.PasswordValidator" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpringUtil" SPRING_PRE_LOADER_OPTION="true" RAKE_SPRING_PRE_LOADER_OPTION="true" RAILS_SPRING_PRE_LOADER_OPTION="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ddfb6500-2e99-4f75-b9f2-1d47fcb7a591" name="Default Changelist" comment="" />
+      <created>1596036858874</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596036858874</updated>
+      <workItem from="1596036860322" duration="2718000" />
+      <workItem from="1596706324439" duration="609000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="451" y="-729" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1596185770135">
+      <screen x="-256" y="-1057" width="1920" height="1057" />
+    </state>
+    <state x="451" y="-729" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.798/-256.-1057.1920.1057@-256.-1057.1920.1057" timestamp="1596185770135" />
+    <state width="1878" height="262" key="GridCell.Tab.0.bottom" timestamp="1596265882728">
+      <screen x="0" y="23" width="1440" height="798" />
+    </state>
+    <state width="1878" height="262" key="GridCell.Tab.0.bottom/0.23.1440.798/-256.-1057.1920.1057@-256.-1057.1920.1057" timestamp="1596200567592" />
+    <state width="1878" height="262" key="GridCell.Tab.0.bottom/0.23.1440.798@0.23.1440.798" timestamp="1596265882728" />
+    <state width="1878" height="262" key="GridCell.Tab.0.center" timestamp="1596265882727">
+      <screen x="0" y="23" width="1440" height="798" />
+    </state>
+    <state width="1878" height="262" key="GridCell.Tab.0.center/0.23.1440.798/-256.-1057.1920.1057@-256.-1057.1920.1057" timestamp="1596200567592" />
+    <state width="1878" height="262" key="GridCell.Tab.0.center/0.23.1440.798@0.23.1440.798" timestamp="1596265882727" />
+    <state width="1878" height="262" key="GridCell.Tab.0.left" timestamp="1596265882727">
+      <screen x="0" y="23" width="1440" height="798" />
+    </state>
+    <state width="1878" height="262" key="GridCell.Tab.0.left/0.23.1440.798/-256.-1057.1920.1057@-256.-1057.1920.1057" timestamp="1596200567591" />
+    <state width="1878" height="262" key="GridCell.Tab.0.left/0.23.1440.798@0.23.1440.798" timestamp="1596265882727" />
+    <state width="1878" height="262" key="GridCell.Tab.0.right" timestamp="1596265882728">
+      <screen x="0" y="23" width="1440" height="798" />
+    </state>
+    <state width="1878" height="262" key="GridCell.Tab.0.right/0.23.1440.798/-256.-1057.1920.1057@-256.-1057.1920.1057" timestamp="1596200567592" />
+    <state width="1878" height="262" key="GridCell.Tab.0.right/0.23.1440.798@0.23.1440.798" timestamp="1596265882728" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/password_validator@PasswordValidator.rcov" NAME="PasswordValidator Coverage Results" MODIFIED="1596186868919" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" MODULE_NAME="password_validator" />
+  </component>
+</project>
