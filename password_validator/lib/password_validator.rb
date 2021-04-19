@@ -1,39 +1,29 @@
 module PasswordValidator
 	def self.is_valid(password)
-		when_contains_lowercase_characters(password)
-		when_contains_capital_letters(password)
-		when_contains_numbers(password)
-		when_contains_underscore(password)
+		when_contains_lowercase_characters(password) &&
+		when_contains_capital_letters(password) &&
+		when_contains_numbers(password) &&
+		when_contains_underscore(password) &&
 		when_contains_more_than_8_characters(password)
 	end
 
 	def self.when_contains_lowercase_characters(password)
-		if password =~ /[a-z]/
-			true
-		end
+		password =~ /[a-z]/
 	end
 
 	def self.when_contains_capital_letters(password)
-		if password =~ /[A-Z]/
-			true
-		end
+		password =~ /[A-Z]/
 	end
 
 	def self.when_contains_numbers(password)
-		if password.count("0-9") > 0
-			true
-		end
+		password.count("0-9") > 0
 	end
 
 	def self.when_contains_underscore(password)
-		if password.include? "_"
-			true
-		end
+		password.include? "_"
 	end
 
 	def self.when_contains_more_than_8_characters(password)
-		if password.length >= 9
-			true
-		end
+		password.length >= 9
 	end
 end
