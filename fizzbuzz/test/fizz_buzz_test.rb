@@ -29,17 +29,3 @@ class FizzBuzzTest < Minitest::Test
     assert_equal 'FizzBuzz', actual[29]
   end
 end
-
-
-
-
-
-
-
-
-
-
-# (1..100).map { |i| (i % 15).zero? ? 'FizzBuzz' : (i % 3).zero? ? 'Fizz' : (i % 5).zero? ? 'Buzz' : i  }
-
-
-
